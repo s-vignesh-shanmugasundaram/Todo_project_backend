@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Walking on the park",
+    "description": "walk on the Park for 2 km ",
+    "due_date": "2024-02-23"
+  },
+  {
+    "title": "Running on marathon",
+    "description": "Running on marathon and try to get the first price",
+    "due_date": "2024-02-24"
+  },
+  {
+    "title": "Writing Homework",
+    "description": "complete the homework and go to school",
+    "due_date": "2024-02-25"
+  },
+  {
+    "title": "Reading book",
+    "description": "Book OF Harry Potter",
+    "due_date": "2024-02-26"
+  },
+  {
+    "title": "Cycling",
+    "description": "Drive the cycle for atleat 5km long",
+    "due_date": "2024-02-22"
+  },
+  {
+    "title": "Reading book",
+    "description": "Book OF Harry Potter",
+    "due_date": "2024-02-27"
+  }
+]
